@@ -8,11 +8,33 @@ Bem vindo ao meu perfil GitHub, onde compartilho minha jornada de aprendizado e 
 - 📚 Sou um estudante dedicado, atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) pela FIAP.
 - 🚀 Minha missão é aprender, evoluir e contribuir com minhas habilidades para um benefício mútuo.
 
-## Tecnologias e Habilidades
+## Conecte-se comigo
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/joelsousa21/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:joelsousa21@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/joelsousa21/)
+<!--
+## Habilidades
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+-->
 
+## Tecnologias e Habilidades
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=E94D5F)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=30A3DC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=30A3DC)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+<!--
 - 🖥️ Aprendendo Java, Python, JavaScript e outras linguagens de programação.
 - 🗃️ Explorando bancos de dados, especialmente PostgreSQL.
 - 🌐 Interessado em desenvolvimento web, análise de dados e automação.
+-->
 
 ## Objetivos
 
