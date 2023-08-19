@@ -46,4 +46,3 @@ Here are some ideas to get you started:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joelsousa21&show_icons=true&theme=dracula" alt="GitHub stats" />
 </div>
 
-![Snake animation](https://github.com/joelsousa21/joelsousa21/blob/output/github-contribution-grid-snake.svg)
