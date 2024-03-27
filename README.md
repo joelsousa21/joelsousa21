@@ -32,7 +32,8 @@ Frontend: ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-th
 Tools: [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 
-Database: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=30A3DC)
+Database: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=30A3DC) ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-000?style=for-the-badge&logo=oracle&logoColor=E94D5F)
+
 
 IDEs: [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000?style=for-the-badge&logo=intellij-idea&logoColor=30A3DC)](https://www.jetbrains.com/idea/) [![VSCode](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=E94D5F)](https://code.visualstudio.com/)
 
