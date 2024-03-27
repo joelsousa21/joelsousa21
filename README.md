@@ -34,6 +34,9 @@ Tools: [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git
 
 Database: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=30A3DC)
 
+IDEs: [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000?style=for-the-badge&logo=intellij-idea&logoColor=30A3DC)](https://www.jetbrains.com/idea/) [![VSCode](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=E94D5F)](https://code.visualstudio.com/)
+
+
 
 
 
