@@ -24,8 +24,14 @@ Bem vindo ao meu perfil GitHub, onde compartilho minha jornada de aprendizado e 
 ## Tecnologias e Habilidades
 
 Backend: ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=E94D5F) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=E94D5F)
+
+
 Frontend: ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC) ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F) ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=30A3DC)
+
+
 Tools: [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+
+
 Database: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=30A3DC)
 
 
