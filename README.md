@@ -3,8 +3,6 @@ Bem vindo ao meu perfil GitHub, onde compartilho minha jornada de aprendizado e 
 
 ## Sobre Mim
 
-# Apresentação: Desenvolvedor Fullstack Jr
-
 Sou um desenvolvedor **Fullstack Jr** apaixonado por transformar ideias em soluções funcionais e inovadoras. Minha jornada no mundo do desenvolvimento de software é impulsionada por uma curiosidade insaciável e uma busca constante por aprendizado. Com um conjunto diversificado de habilidades técnicas, estou comprometido em entregar resultados de alta qualidade em todas as etapas do ciclo de vida do desenvolvimento de software.
 
 
