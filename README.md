@@ -108,7 +108,7 @@ Desenvolvi soluções de automação para o setor fiscal e departamento pessoal,
 
 ## 🛠️ Tecnologias que utilizo
 
-- **Back-end**: Java, Spring Boot,JavaScript, Node.js, PostgreSQL
+- **Back-end**: Java, Spring Boot, JavaScript, Node.js, PostgreSQL
 - **Front-end**: React, Next.js, TypeScript, Tailwind CSS
 - **Automação e RPA**: Python, Selenium, PyAutoGUI
 - **Versionamento de Código**: Git
