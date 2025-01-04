@@ -96,7 +96,7 @@ Sou **desenvolvedor Full-stack** com experiência em **Front-end** e **Back-end*
 ### [CONTPRAGENTE CONTABILIDADE](https://www.contpragente.com.br)  
 Desenvolvi o **Front-end** completo para o site da CONTPRAGENTE, utilizando **Next.js**, **TypeScript**, **Tailwind CSS** e **React**. O sistema é responsivo, rápido e foi desenvolvido com foco na **performance** e **experiência do usuário**. Além disso, criei um **blog integrado** ao site, utilizando **Markdown** para facilitar a criação e manutenção de conteúdo dinâmico. O site foi otimizado para **SEO**, garantindo uma melhor indexação nos motores de busca e aumentando sua visibilidade online.  
 - **Tecnologias**: Next.js, TypeScript, Tailwind CSS, React, Markdown, SEO.  
-- **Visite o projeto**: [www.contpragente.com.br](https://www.contpragente.com.br)
+- **Visite o projeto**: <a href="https://www.contpragente.com.br" target="_blank">www.contpragente.com.br</a>
 
 
 ### Projetos Freelancer  
